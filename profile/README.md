@@ -16,4 +16,4 @@ What would discredit a result is written down before the run, and a null outcome
 
 ## Contact
 
-Developed by Dogma Guru. Issues and discussions on the repositories are the best way to reach the project.
+Developed by Anish Patel. Issues and discussions on the repositories are the best way to reach the project.
