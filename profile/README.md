@@ -4,7 +4,7 @@ Dogma Guru, of Dogma LLC, New York, builds AI that works inside an organization'
 
 ## What we make
 
-- **Tarka**: an AI assistant integrated with a firm's own records and deployed for that firm alone, built for professional firms, starting with engineering. The demo is at [tarka.dogma.guru](https://tarka.dogma.guru). Tarka is not open source.
+- **Tarka**: an AI assistant integrated with a firm's own records and deployed for that firm alone, built for professional firms. The demo is at [tarka.dogma.guru](https://tarka.dogma.guru). Tarka is not open source.
 - **Research**: a research program into consciousness, pattern, and reality, and a book in progress, *In the Myth. Real Time, Real Self.*, at [www.dogma.guru/research](https://www.dogma.guru/research). The reasoning discipline behind both is published as [The Protocol](https://www.dogma.guru/protocol), free to use under CC BY 4.0.
 
 ## Manacitra
